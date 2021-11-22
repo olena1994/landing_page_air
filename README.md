@@ -3,7 +3,7 @@ Dia landing page.
 Technologies used in project: HTML; SCSS; JavaScript;
 
 To preview:
-- [DEMO LINK](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia))?node-id=0%3A1)
+- [DEMO LINK](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-(formerly-Dia)))
 
 To layout:
 - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
